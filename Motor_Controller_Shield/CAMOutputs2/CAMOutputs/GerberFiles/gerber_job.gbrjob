@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-12-13T16:16:19Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "motor_shield_v1"
+        },
+        "Owner": "Madeline Kogelis <maddiek19@vt.edu>",
+        "Size": {
+            "X": 63.48,
+            "Y": 50.47
+        }
+    }
+}

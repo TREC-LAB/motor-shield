@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-03-31T17:54:51Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "motor_shield_v1"
+        },
+        "Owner": "Zachary Fuge <zachf287@vt.edu>",
+        "Size": {
+            "X": 63.48,
+            "Y": 50.47
+        }
+    }
+}
